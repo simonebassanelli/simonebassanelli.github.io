@@ -1,5 +1,5 @@
 current directory: C:/Users/simon/Documents/simonebassanelli.github.io/vendor/bundle/ruby/3.1.0/gems/nokogiri-1.13.8/ext/nokogiri
-C:/Ruby31-x64/bin/ruby.exe -I C:/Ruby31-x64/lib/ruby/3.1.0 -r ./siteconf20221006-2124-t7wugy.rb extconf.rb
+C:/Ruby31-x64/bin/ruby.exe -I C:/Ruby31-x64/lib/ruby/3.1.0 -r ./siteconf20221007-14752-ucjbdu.rb extconf.rb
 checking for whether -std=c99 is accepted as CFLAGS... yes
 checking for whether -Wno-declaration-after-statement is accepted as CFLAGS... yes
 checking for whether -g is accepted as CFLAGS... yes
